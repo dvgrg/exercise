@@ -1,0 +1,18 @@
+
+testgyrox: contains data test of Gyroscope X
+testgyroy: contains data test of Gyroscope Y
+testgyroz: contains data test of Gyroscope Z
+testtotalx: contains data test for total value X
+testtotaly: contains data test for total value Y
+testtotalz: contains data test for total value Z
+testsub: test subjects
+testsubX: test subjects X
+testsubY: test subjects Y
+trainY: train file for Y
+trainX: train file for X
+features: label for the 85 variables
+
+newdataset: combines test and train readings
+newdatasetfinal: contains only varialbes of mean and std
+
+df_summary: tidy data of the mean per column grouped by subject and activity
